@@ -23,7 +23,7 @@ public class Lab2Test {
     @Test
     public void ShouldBePrivateConstructor() {
         for (Constructor c : Logger.class.getConstructors()) {
-            assertTrue(Modifier.isPrivsate(c.getModifiers()));
+            assertTrue(Modifier.isPrivate(c.getModifiers()));
         }
     }
 
