@@ -1,1 +1,2 @@
-[![cpit252](https://circleci.com/gh/cpit251/unit-testing-coverage-demo.svg?style=svg)](https://app.circleci.com/pipelines/github/RakanSalama)
+
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/RakanSalama/lab2/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/RakanSalama/lab2/tree/main)
