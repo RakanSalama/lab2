@@ -5,7 +5,7 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.io.PrintWriter;
 import java.io.FileWriter;
-//
+
 public class Logger {
     DateTimeFormatter myFormatter = DateTimeFormatter.ofPattern("dd-MM-yyyy-HH-mm-ss");
     String currentDateTimeString = LocalDateTime.now().format(myFormatter);
